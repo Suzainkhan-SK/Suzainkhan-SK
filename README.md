@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Suzainkhan-SK">
-    <img src="./Github-SK-banner.png" alt="Suzain Khan Banner" width="100%" />
+    <img src="./Github-SK-Banner.png" alt="Suzain Khan Banner" width="100%" />
   </a>
 </p>
 <div align="center">
